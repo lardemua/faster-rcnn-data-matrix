@@ -1,4 +1,4 @@
-# faster-cnn-data-matrix
+# faster-rcnn-data-matrix
 This work presents an implementation of a Faster R-CNN model to detect Data Matrix. This architecture demonstrated quite accurate and consistent results by detecting the landmarks in almost all frames.
 
 The  Faster  R-CNN  was  trained  through  [Detectron2](https://github.com/tmralmeida/detectron2),  a  research  platform  for  object  detection  and  segmentation.
