@@ -7,9 +7,9 @@ Moreover, it can detect Data Matrix in the full set of the test set, while class
 
 If you find this implementation or the analysis conducted in our report helpful, please consider citing:
 
-(Sumitted paper) - Updating
+[paper](https://tmralmeida.github.io/projects/papers/data-matrix-detection.pdf) 
 
-Or the Detetcton 2 platform:
+Detetcton 2 platform:
 
 ```
 @misc{wu2019detectron2,
